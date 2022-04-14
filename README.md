@@ -7,5 +7,5 @@ No momento estou me introduzindo no universo full-stack e buscando sempre aprend
 <div>
   <a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luornel&show_icons=true&theme=synthwave"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luornel&layout=compact&langs_count=16&theme=synthwave"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luornel&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
