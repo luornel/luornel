@@ -1,4 +1,4 @@
-## 👋🏻 Oi gente! Eu sou o Luã!
+## 👋🏻 Hello world! Eu sou o Luã!
 
 ### 🌙 Sobre mim:
 Sou um músico com pé na produção musical que atualmente está cursando a faculdade de Ciência da Computação.
