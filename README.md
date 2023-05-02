@@ -1,7 +1,7 @@
 ## 👋🏻 Hello world! Eu sou o Luã!
 
 ### 🌙 Sobre mim:
-Sou um músico com pé na produção musical que atualmente está cursando a faculdade de Ciência da Computação.
+Estudante de Ciência da Computação e Gestão de T.I.
 No momento estou me introduzindo no universo full-stack e buscando sempre aprender coisas novas!
 
 <div>
