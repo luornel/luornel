@@ -2,7 +2,6 @@
 
 ### 🌙 Sobre mim:
 Estudante de Ciência da Computação e Gestão de T.I.
-No momento estou me introduzindo no universo full-stack e buscando sempre aprender coisas novas!
 
 <div>
   <a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/">
