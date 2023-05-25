@@ -1,7 +1,7 @@
 ## 👋🏻 Hello world! Eu sou o Luã!
 
 ### 🌙 Sobre mim:
-Estudante de Ciência da Computação e Gestão de T.I.
+Estudante de Ciência da Computação e entusiasta da música.
 
 <div>
   <a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/">
