@@ -1,7 +1,7 @@
 ## 👋🏻 Hello world! Eu sou o Luã!
 
 ### 🌙 Sobre mim:
-Meu nome é Luã, tenho 23 anos, resido em Porto Alegre e atualmente estou cursando o terceiro semestre de Ciência da Computação na UniAmérica e estagiando no Tribunal de Justiça. 
+Meu nome é Luã, tenho 23 anos, resido em Porto Alegre e atualmente estou cursando o quarto semestre de Ciência da Computação na UniAmérica e estagiando no Tribunal de Justiça. 
 
 Sou apaixonado por música e tecnologia desde que me conheço por gente. Por conta disso, aprendi desde cedo a manipular imagens, vídeos e áudio. Estou me desenvolvendo em HTML, CSS, WordPress, Java, JavaScript, SQL, Bubble.io e Android Studio, possuindo micro-certificados gerados pela minha universidade.
 
