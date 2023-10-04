@@ -15,13 +15,13 @@ Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas au
 
 :)
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luornel&show_icons=true&theme=synthwave"/>
 <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luornel&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,13 +32,13 @@ Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas au
   ##
 
 <div>
-      <table border="1" style="width: 100%;">
+      <table border="1" align="center">
         <tr>
-            <td><a href="mailto:luaornelas@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></td>
-            <td><a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></td>
-            <td><a href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Instagram Icon.png" target="_blank"></td>
-            <td><a href="https://soundcloud.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Soundcloud Icon.png" target="_blank"></td>
-            <td><a href="https://www.tiktok.com/@luornel" target="_blank"><img height="50" width="50" src="Ícones/TikTok Icon.png" target="_blank"></td>
+            <td align="center"><a href="mailto:luaornelas@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></td>
+            <td align="center"><a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></td>
+            <td align="center"><a href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Instagram Icon.png" target="_blank"></td>
+            <td align="center"><a href="https://soundcloud.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Soundcloud Icon.png" target="_blank"></td>
+            <td align="center"><a href="https://www.tiktok.com/@luornel" target="_blank"><img height="50" width="50" src="Ícones/TikTok Icon.png" target="_blank"></td>
         </tr>
     </table>
 </div>
