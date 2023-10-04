@@ -34,11 +34,11 @@ Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas au
 <div>
       <table border="1" style="width: 100%;">
         <tr>
-            <td href="mailto:luaornelas@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></td>
-            <td href="https://www.linkedin.com/in/lu%C3%A3-ornelas/)" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></td>
-            <td href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Instagram Icon.png" target="_blank"></td>
-            <td><img height="50" width="50" src="Ícones/Soundcloud Icon.png" target="_blank"></td>
-            <td><img height="50" width="50" src="Ícones/TikTok Icon.png" target="_blank"></td>
+            <td><a href="mailto:luaornelas@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></td>
+            <td><a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></td>
+            <td><a href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Instagram Icon.png" target="_blank"></td>
+            <td><a href="https://soundcloud.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Soundcloud Icon.png" target="_blank"></td>
+            <td><a href="https://www.tiktok.com/@luornel" target="_blank"><img height="50" width="50" src="Ícones/TikTok Icon.png" target="_blank"></td>
         </tr>
     </table>
 </div>
