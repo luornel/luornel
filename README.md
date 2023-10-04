@@ -28,13 +28,17 @@ Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas au
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
   ##
- 
-<div> 
-  <a href="mailto:luaornelas@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/)" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></a>
-  <a href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Instagram Icon.png" target="_blank"></a>
-    <a href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Soundcloud Icon.png" target="_blank"></a>
-    <a href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/TikTok Icon.png" target="_blank"></a>
+
+<div>
+      <table border="1" style="width: 100%;">
+        <tr>
+            <td href="mailto:luaornelas@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></td>
+            <td href="https://www.linkedin.com/in/lu%C3%A3-ornelas/)" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></td>
+            <td href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Instagram Icon.png" target="_blank"></td>
+            <td><img height="50" width="50" src="Ícones/Soundcloud Icon.png" target="_blank"></td>
+            <td><img height="50" width="50" src="Ícones/TikTok Icon.png" target="_blank"></td>
+        </tr>
+    </table>
 </div>
