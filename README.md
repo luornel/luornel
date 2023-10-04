@@ -17,6 +17,24 @@ Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas au
 
 <div>
   <a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luornel&show_icons=true&theme=synthwave"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=luornel&show_icons=true&theme=synthwave"/>
 <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luornel&layout=compact&langs_count=16&theme=synthwave"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="mailto:luaornelas@gmail.com"><img height="50" width="50" src="Ícones/Gmail Icon.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lu%C3%A3-ornelas/)" target="_blank"><img height="50" width="50" src="Ícones/LinkedIn Icon.png" target="_blank"></a>
+  <a href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Instagram Icon.png" target="_blank"></a>
+    <a href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/Soundcloud Icon.png" target="_blank"></a>
+    <a href="https://instagram.com/luornel" target="_blank"><img height="50" width="50" src="Ícones/TikTok Icon.png" target="_blank"></a>
 </div>
