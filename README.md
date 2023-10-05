@@ -29,6 +29,7 @@ Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas au
   <img align="center" alt="WP" height="30" width="30" src="Ícones/WordPress Icon.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="AWS" height="30" width="40" scr= "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="AndroidStudio" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
 </div>
 
