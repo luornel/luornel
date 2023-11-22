@@ -17,7 +17,6 @@ Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas au
 
 <div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luornel&show_icons=true&theme=synthwave"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luornel&exclude_repo=github-readme-stats,luornel.github.io&theme=synthwave"/>
 </div>
 
 <div align="center" inline_block"><br>
