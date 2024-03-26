@@ -1,15 +1,13 @@
 ## 👋🏻 Hello world! Eu sou o Luã!
 
 ### 🌙 Sobre mim:
-Meu nome é Luã, tenho 23 anos, resido em Porto Alegre e atualmente estou cursando o quinto semestre de Ciência da Computação na UniAmérica e estagiando no Tribunal de Justiça.
+Meu nome é Luã, tenho 23 anos, resido em Porto Alegre e estou cursando o quinto semestre de Ciência da Computação na UniAmérica e estagiando no Tribunal de Justiça.
 
-Sou apaixonado por música e tecnologia desde que me conheço por gente. Por conta disso, aprendi desde cedo a manipular imagens, vídeos e áudio. 
-
-Meu curso tem foco no full-stack, mas meu principal objetivo nessa jornada tecnológica é me desenvolver no ambiente do back-end. Amo lógica, amo programar e principalmente conhecer e entender mais sobre essa infinitude de zeros e uns. O desafio de começar um novo código é sempre atraente e me diverte muito no processo.
-
-Atualmente, estou focando no desenvolvimento de habilidades em TypeScript, SpringBoot e SQL, e tenho familiaridade com HTML, CSS, JavaScript, Python e PHP.
+Meu curso tem foco no full-stack, mas meu principal objetivo nessa jornada tecnológica é me desenvolver principalmente no ambiente do back-end. Amo lógica, amo programar e principalmente conhecer e entender mais sobre essa infinitude de zeros e uns. O desafio de começar um novo código é sempre atraente e me diverte muito no processo.
 
 O Inglês sempre foi algo presente na minha vida, mesmo antes de me aprofundar em estudos e cursos. Hoje possuo um inglês avançado e um desejo imenso de aprender novos idiomas.
+
+Atualmente, estou focado no desenvolvimento Angular, SpringBoot e SQL.
 
 Fora a T.I., também sou entusiasta da fotografia, do design e do ciclismo. Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas autorais e covers.
 
@@ -21,14 +19,17 @@ Fora a T.I., também sou entusiasta da fotografia, do design e do ciclismo. Nas 
 </div>
 
 <div align="center" inline_block"><br>
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="SQLDev" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wp" height="30" width="30" src="Ícones/WordPress Icon.png">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="AndroidStudio" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
 </div>
 
