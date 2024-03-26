@@ -1,7 +1,7 @@
 ## 👋🏻 Hello world! Eu sou o Luã!
 
 ### 🌙 Sobre mim:
-Meu nome é Luã, tenho 23 anos, resido em Porto Alegre e atualmente estou cursando o quarto semestre de Ciência da Computação na UniAmérica e estagiando no Tribunal de Justiça.
+Meu nome é Luã, tenho 23 anos, resido em Porto Alegre e atualmente estou cursando o quinto semestre de Ciência da Computação na UniAmérica e estagiando no Tribunal de Justiça.
 
 Sou apaixonado por música e tecnologia desde que me conheço por gente. Por conta disso, aprendi desde cedo a manipular imagens, vídeos e áudio. 
 
@@ -25,10 +25,10 @@ Fora a T.I., também sou entusiasta da fotografia, do design e do ciclismo. Nas 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Wp" height="30" width="30" src="Ícones/WordPress Icon.png">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wp" height="30" width="30" src="Ícones/WordPress Icon.png">
   <img align="center" alt="AndroidStudio" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
 </div>
 
