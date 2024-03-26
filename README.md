@@ -9,7 +9,8 @@ O Inglês sempre foi algo presente na minha vida, mesmo antes de me aprofundar e
 
 Atualmente, focado em me desenvolver em Angular, SpringBoot e SQL.
 
-Fora a T.I., também sou entusiasta da fotografia, do design e do ciclismo. Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas autorais e covers.
+Fora a T.I., também sou entusiasta da fotografia, do design e do ciclismo.
+Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas autorais e covers.
 
 :)
 
