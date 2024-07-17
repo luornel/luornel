@@ -1,23 +1,17 @@
 ## 👋🏻 Hello world! Eu sou o Luã!
 
 ### 🌙 Sobre mim:
-Meu nome é Luã, tenho 23 anos, resido em Porto Alegre, estou cursando o quinto semestre de Ciência da Computação na UniAmérica e estagiando no Tribunal de Justiça.
+Sou o Luã, tenho 24 anos e resido em Porto Alegre. Estou cursando o 5º semestre de Ciência da Computação na UniAmérica e atuo como estagiário no Tribunal de Justiça do Rio Grande do Sul.
 
-Meu curso tem foco no full-stack, mas meu principal objetivo nessa jornada tecnológica é me aprofundar principalmente em ambientes back-end. Amo lógica, amo programar e principalmente aprender e entender mais sobre essa infinitude de zeros e uns. O desafio de começar um novo código é sempre atraente e me diverte muito no processo.
+Com foco no desenvolvimento full-stack, minha formação acadêmica me proporciona uma base sólida em lógica e programação, áreas pelas quais sou extremamente apaixonado. No entanto, meu principal objetivo é evoluir como analista de sistemas, combinando habilidades técnicas com uma visão estratégica.
 
-O Inglês sempre foi algo presente na minha vida, mesmo antes de me aprofundar em estudos e cursos. Hoje possuo um inglês avançado e um desejo imenso de aprender novos idiomas.
+Atualmente, estou me especializando em Angular, Spring Boot e Elastic Stack, tecnologias que acredito serem essenciais para o meu desenvolvimento profissional.
 
-Atualmente, focado em me desenvolver em Angular, SpringBoot e SQL.
+Além disso, o inglês sempre fez parte da minha vida, o que me permitiu alcançar um nível avançado. Também estou constantemente buscando aprender novos idiomas.
 
-Fora a T.I., também sou entusiasta da fotografia, do design e do ciclismo.
-Nas horas vagas, gosto de trabalhar com produção musical, gravando músicas autorais e covers.
+Fora do mundo da TI, sou entusiasta de fotografia, design e ciclismo. Nas minhas horas livres, me dedico à produção musical, gravando tanto músicas autorais quanto covers.
 
 :)
-
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=luornel&show_icons=true&theme=jolly"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luornel&exclude_repo=github-readme-stats,luornel.github.io&theme=jolly"/>
-</div>
 
 <div align="center" inline_block"><br>
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
