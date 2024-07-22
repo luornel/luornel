@@ -3,9 +3,11 @@
 ### 🌙 Sobre mim:
 Sou o Luã, tenho 24 anos e resido em Porto Alegre. Estou cursando o 5º semestre de Ciência da Computação na UniAmérica e atuo como estagiário no Tribunal de Justiça do Rio Grande do Sul.
 
-Com foco no desenvolvimento full-stack, minha formação acadêmica me proporciona uma base sólida em lógica e programação, áreas pelas quais sou extremamente apaixonado. No entanto, meu principal objetivo é evoluir como analista de sistemas, combinando habilidades técnicas com uma visão estratégica.
+Com foco no desenvolvimento full-stack, minha formação acadêmica me proporciona uma base sólida em lógica e programação, áreas pelas quais sou extremamente apaixonado. No entanto, meu principal objetivo é evoluir como Analista de Sistemas, combinando habilidades técnicas com uma visão estratégica.
 
-Atualmente, estou me especializando em Angular, Spring Boot e Elastic Stack, tecnologias que acredito serem essenciais para o meu desenvolvimento profissional.
+Tenho experiência em análise, documentação, prototipação e desenvolvimento de sistemas. No Tribunal de Justiça, atuo como desenvolvedor full-stack na criação de sistemas institucionais e contribuo para a manutenção e publicação de conteúdos dos portais do TJRS.
+
+Atualmente, estou me especializando em Angular, Spring Boot, SQL e Elastic Stack, tecnologias que acredito serem essenciais para o meu desenvolvimento profissional.
 
 Além disso, o inglês sempre fez parte da minha vida, o que me permitiu alcançar um nível avançado. Também estou constantemente buscando aprender novos idiomas.
 
