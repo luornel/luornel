@@ -1,5 +1,3 @@
-## 👋🏻 Hello world! Eu sou o Luã!
-
 ### 🌙 Sobre mim:
 Sou o Luã, tenho 24 anos e resido em Porto Alegre.
 
