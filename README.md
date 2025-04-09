@@ -1,17 +1,17 @@
 ## 👋🏻 Hello world! Eu sou o Luã!
 
 ### 🌙 Sobre mim:
-Sou o Luã, tenho 24 anos e resido em Porto Alegre. Estou cursando o 7º semestre de Ciência da Computação na UniAmérica e atuo como Analista de Sistemas Pleno no Tribunal de Justiça do Rio Grande do Sul.
+Sou o Luã, tenho 24 anos e resido em Porto Alegre.
 
-Com foco em desenvolvimento full-stack, minha formação acadêmica me proporciona uma base sólida em lógica e programação, áreas pelas quais sou extremamente apaixonado. No entanto, meu principal objetivo é evoluir como Analista de Sistemas, combinando habilidades técnicas com uma visão estratégica.
+Atuo como Analista de Sistemas na Cast Group, alocado no Tribunal de Justiça do RS. Trabalho com análise de requisitos, documentação, prototipação e comunicação entre equipes técnicas e áreas de negócio. No dia a dia, valorizo soluções ágeis e eficientes, frequentemente desenvolvendo scripts e automações para otimizar processos e aumentar a produtividade. Também acredito na importância de uma boa comunicação e colaboração entre colegas para um ambiente produtivo.
 
-Tenho experiência em análise, documentação, prototipação e desenvolvimento de sistemas. No Tribunal de Justiça, atuo como Analista Documental/Negócio, elaborando documentações/issues de sistemas institucionais e contribuindo na gestão de problemas.
+Anteriormente, como estagiário no TJRS, realizei manutenção e publicação de conteúdos em portais utilizando PHP e WordPress. Também participei da atualização tecnológica de sistemas institucionais utilizando Angular e Spring Boot, aprimorando minhas habilidades em análise, prototipação e metodologias ágeis.
 
-Atualmente, estou me especializando em Angular, Spring Boot, SQL e Elastic Stack, tecnologias que acredito serem essenciais para o meu desenvolvimento profissional.
+Atualmente cursando o 7º semestre em Ciência da Computação, busco conectar minha formação acadêmica ao cotidiano profissional, sempre aprendendo mais sobre tecnologia, comunicação e gestão ágil.
 
-Além disso, o inglês sempre fez parte da minha vida, o que me permitiu alcançar um nível avançado. Também estou constantemente buscando aprender novos idiomas.
+O inglês sempre fez parte da minha vida, permitindo que eu alcançasse um nível avançado. Além disso, tenho grande interesse em aprender novos idiomas.
 
-Fora do mundo da TI, sou entusiasta de fotografia, design e ciclismo. Nas minhas horas livres, me dedico à produção musical, gravando tanto músicas autorais quanto covers.
+Fora do ambiente profissional, sou entusiasta da música, fotografia, design e ciclismo. Nas horas livres, me dedico especialmente à produção musical.
 
 :)
 
