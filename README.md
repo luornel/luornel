@@ -1,5 +1,5 @@
 ### 🌙 Sobre mim:
-Sou o Luã, tenho 24 anos e resido em Porto Alegre.
+Sou o Luã, tenho 25 anos e resido em Porto Alegre.
 
 Atuo como Analista de Sistemas na Cast Group, alocado no Tribunal de Justiça do RS. Trabalho com análise de requisitos, documentação, prototipação e comunicação entre equipes técnicas e áreas de negócio. No dia a dia, valorizo soluções ágeis e eficientes, frequentemente desenvolvendo scripts e automações para otimizar processos e aumentar a produtividade. Também acredito na importância de uma boa comunicação e colaboração entre colegas para um ambiente produtivo.
 
