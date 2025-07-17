@@ -5,7 +5,7 @@ Atuo como Analista de Sistemas na Cast Group, alocado no Tribunal de Justiça do
 
 Anteriormente, como estagiário no TJRS, realizei manutenção e publicação de conteúdos em portais utilizando PHP e WordPress. Também participei da atualização tecnológica de sistemas institucionais utilizando Angular e Spring Boot, aprimorando minhas habilidades em análise, prototipação e metodologias ágeis.
 
-Atualmente cursando o 7º semestre em Ciência da Computação, busco conectar minha formação acadêmica ao cotidiano profissional, sempre aprendendo mais sobre tecnologia, comunicação e gestão ágil.
+Atualmente cursando o último semestre de Ciência da Computação, busco conectar minha formação acadêmica ao cotidiano profissional, sempre aprendendo mais sobre tecnologia, comunicação e gestão ágil.
 
 O inglês sempre fez parte da minha vida, permitindo que eu alcançasse um nível avançado. Além disso, tenho grande interesse em aprender novos idiomas.
 
